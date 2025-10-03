@@ -1,0 +1,12 @@
+{
+  "name": "protea-whatsapp-testing",
+  "version": "1.0.0",
+  "description": "WhatsApp webhook test service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
